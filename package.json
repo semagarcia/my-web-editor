@@ -1,0 +1,19 @@
+{
+  "name": "my-web-editor",
+  "version": "1.0.0",
+  "description": "Proof of concept for an own desktop javascript editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semagarcia/my-web-editor.git"
+  },
+  "author": "Sema García",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/semagarcia/my-web-editor/issues"
+  },
+  "homepage": "https://github.com/semagarcia/my-web-editor#readme"
+}
