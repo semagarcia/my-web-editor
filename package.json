@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/semagarcia/my-web-editor/issues"
   },
-  "homepage": "https://github.com/semagarcia/my-web-editor#readme"
+  "homepage": "https://github.com/semagarcia/my-web-editor#readme",
+  "dependencies": {
+    "monaco-editor": "^0.10.1"
+  },
+  "devDependencies": {
+    "electron": "^1.7.10"
+  }
 }
